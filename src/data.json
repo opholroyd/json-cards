@@ -1,0 +1,55 @@
+{
+    "characters" : [
+        {
+            "title": "King",
+            "name": "Gothric Bkadr",
+            "isStarred": true,
+            "imageLink": "https://upload.wikimedia.org/wikipedia/en/c/cb/Mhacharacters.jpg",
+            "alias": [
+                "The Blood King",
+                "Conquerer"
+            ],
+            "description": "this is a basic description",
+            "abilities": [
+                "Leadership",
+                "Forces"
+            ],
+            "neutrality": "Good",
+            "tags": "kings" 
+        },
+        {
+            "title": "God",
+            "name": "Balric Planteteater",
+            "isStarred": true,
+            "imageLink": "https://i.pinimg.com/564x/b5/6a/8a/b56a8a239088628d219ac862f9e2c304.jpg",
+            "alias": [
+                "Creators Bane",
+                "Everlasting"
+            ],
+            "description": "this is a basic description about the second guy",
+            "abilities": [
+                "Creation",
+                "Matter Manipulation"
+            ],
+            "neutrality": "Neutral",
+            "tags": "God"
+        },
+        {
+            "title": "God",
+            "name": "Balric Planteteater",
+            "isStarred": true,
+            "imageLink": "https://i.pinimg.com/564x/b5/6a/8a/b56a8a239088628d219ac862f9e2c304.jpg",
+            "alias": [
+                "Creators Bane",
+                "Everlasting"
+            ],
+            "description": "this is a basic description about the second guy",
+            "abilities": [
+                "Creation",
+                "Matter Manipulation"
+            ],
+            "neutrality": "Neutral",
+            "tags": "God"
+        }
+    ]
+}
